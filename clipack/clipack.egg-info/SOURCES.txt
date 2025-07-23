@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+clipack/__init__.py
+clipack/classes.py
+clipack/file_sorter.py
+clipack/main.py
+clipack/notebook.py
+clipack.egg-info/PKG-INFO
+clipack.egg-info/SOURCES.txt
+clipack.egg-info/dependency_links.txt
+clipack.egg-info/entry_points.txt
+clipack.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+clipack = clipack.main:main
